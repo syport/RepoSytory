@@ -1,2 +1,2 @@
 # RepoSytory
-Application repository containing repacks for SyMenu
+Application download mirror for [SyMenu](https://www.ugmfree.it/)
