@@ -1,2 +1,2 @@
 # RepoSytory
-Repository containing application-repacks for SyMenu
+Application repository containing repacks for SyMenu
